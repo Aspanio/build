@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.f5b58ddd.chunk.css",
+  "main.js": "/static/js/main.9c249498.chunk.js",
+  "main.js.map": "/static/js/main.9c249498.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/css/2.7b2cedcc.chunk.css": "/static/css/2.7b2cedcc.chunk.css",
+  "static/js/2.c6a4d952.chunk.js": "/static/js/2.c6a4d952.chunk.js",
+  "static/js/2.c6a4d952.chunk.js.map": "/static/js/2.c6a4d952.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.933a8258cad936e33672f9beb60fa3ba.js": "/precache-manifest.933a8258cad936e33672f9beb60fa3ba.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.7b2cedcc.chunk.css.map": "/static/css/2.7b2cedcc.chunk.css.map",
+  "static/css/main.f5b58ddd.chunk.css.map": "/static/css/main.f5b58ddd.chunk.css.map",
+  "static/media/index.css": "/static/media/Proxima Nova Regular.410504d4.otf",
+  "static/media/arrow.svg": "/static/media/arrow.8a9b0b7c.svg",
+  "static/media/baby.svg": "/static/media/baby.65da7f68.svg",
+  "static/media/icon.svg": "/static/media/icon.a2590661.svg",
+  "static/media/karpachoff.png": "/static/media/karpachoff.41158ffa.png",
+  "static/media/styles.module.scss": "/static/media/kid.dd6c52e2.png",
+  "static/media/login.svg": "/static/media/login.731ad593.svg",
+  "static/media/logo.svg": "/static/media/logo.1d58b29e.svg"
+}
